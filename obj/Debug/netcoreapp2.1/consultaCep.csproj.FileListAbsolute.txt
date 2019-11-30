@@ -1,0 +1,68 @@
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.deps.json
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.runtimeconfig.json
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.dll
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorAssemblyInfo.cache
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorAssemblyInfo.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.TagHelpers.input.cache
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.TagHelpers.output.cache
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorCoreGenerate.cache
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorTargetAssemblyInfo.cache
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorTargetAssemblyInfo.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.pdb
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.Views.dll
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.Views.pdb
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.Views.pdb
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.dll
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.pdb
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.csproj.CopyComplete
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\CadastrarEndereco.g.cshtml.cs
+C:\Users\Aluno\source\repos\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.deps.json
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.runtimeconfig.json
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.dll
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.pdb
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.Views.dll
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\bin\Debug\netcoreapp2.1\consultaCep.Views.pdb
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorAssemblyInfo.cache
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorAssemblyInfo.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.TagHelpers.input.cache
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.TagHelpers.output.cache
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorCoreGenerate.cache
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\CadastrarEndereco.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorTargetAssemblyInfo.cache
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.RazorTargetAssemblyInfo.cs
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.Views.pdb
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.dll
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.pdb
+C:\Users\Aluno\Desktop\ROBERT - RAPHAEL - ROBERTO - EDUARDO\consultaCep\consultaCep\obj\Debug\netcoreapp2.1\consultaCep.csproj.CopyComplete

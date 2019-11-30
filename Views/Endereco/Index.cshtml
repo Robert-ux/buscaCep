@@ -1,0 +1,104 @@
+﻿@model IEnumerable<Endereco>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Listar Endreço</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+<body>
+    <h3>Lista Endereço</h3>
+   
+    
+
+        <br>
+        <br>
+       
+        <br>
+        <p style="text-align:center !important;">
+            <a class="btn btn-success" asp-action="CadastrarEndereco">Cadastrar Cep</a>
+        </p>
+        <br />
+        <table class="table table-dark" style="text-align:center;width:70%;margin:auto !important;">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Cep)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Logradouro)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Complemento)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Bairro)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Localidade)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Uf)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Unidade)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Ibge)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Gia)
+                    </th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cep)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Logradouro)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Complemento)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Bairro)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Localidade)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Uf)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Unidade)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ibge)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Gia)
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+        <br />
+        <br />
+        <b class="blockquote-footer">Dados atualizados: @ViewBag.Data</b>
+    
+</body>
+</html>
